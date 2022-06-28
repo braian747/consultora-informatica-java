@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConsultoraInformatica
+comment1.params=
+comment1.target=ConsultoraInformatica()
+comment2.params=p
+comment2.target=void\ agregarProyecto(Proyecto)
+comment3.params=nombre\ n
+comment3.target=void\ recorrerLista(java.lang.String,\ int)
+numComments=4
